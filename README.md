@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="50" alt="wfh  gif"> <br/> 👋 Hey there, I am <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
+<h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="100" alt="wfh  gif"> <br/> 👋 Hey there, I am <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
 
 <p align="center">
   <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a></em>
@@ -33,6 +33,6 @@ Something about me:
 
 <p align="center">
 <a href="https://github.com/MihirMore/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=onedark&hide=blade&card_width=400&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=onedark&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
