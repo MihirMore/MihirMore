@@ -1,9 +1,9 @@
-<h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="100" alt="wfh  gif"> <br/><br/> 👋 Hey there, I am <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
+<h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="100" alt="wfh  gif"> <br> 👋 Hey there, I am <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
 
 <p align="center">
   <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a></em>
 </p>
-<br/>
+<br>
 <p align="center">
   <a href="https://github.com/MihirMore">
     <img src="https://img.shields.io/github/followers/MihirMore?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
@@ -13,9 +13,9 @@
   </a>
  <a></a>
   </p>
-  <br/>
+  <br>
 Something about me:
-<br/>
+<br>
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Github
