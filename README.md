@@ -3,7 +3,7 @@
 <p align="center">
   <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a></em>
 </p>
-
+<br/>
 <p align="center">
   <a href="https://github.com/MihirMore">
     <img src="https://img.shields.io/github/followers/MihirMore?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
@@ -13,9 +13,9 @@
   </a>
  <a></a>
   </p>
-  <br/><br/>
+  <br/>
 Something about me:
-
+<br/>
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Github
