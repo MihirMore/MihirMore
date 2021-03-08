@@ -15,7 +15,7 @@
   </p>
   <br>
 Something about me:
-<br>
+
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Github
