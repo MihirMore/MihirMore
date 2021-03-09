@@ -38,7 +38,7 @@ Something about me:
 - ⚡ Fun fact: I love ice-cream 😁
 
 <br>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> MY statistics  
+###<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> My statistics  
 <p align="center">
 <a href="https://github.com/GurvirSingh/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=highcontrast" />
