@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="100" alt="wfh  gif"> <br> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
 
 <p align="center">
-  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a></em>
+  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
 </p>
 <br>
 <p align="center">
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Tools-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GithubDesktop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+
   
 Something about me:
 
