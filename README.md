@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Tools-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GithubDesktop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
   
 Something about me:
 
