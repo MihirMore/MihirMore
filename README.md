@@ -1,4 +1,5 @@
-<h2 align="center"> <img src="https://media4.giphy.com/media/jkZkPuDFxoBudUXQEN/giphy.gif?cid=ecf05e472lcqhfvu3jw724q9bfy6vczw50pm2ncww0edw0j0&rid=giphy.gif" width="100" alt="wfh  gif"> <br> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h2>
+<h1> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
   <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
