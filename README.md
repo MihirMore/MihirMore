@@ -26,7 +26,8 @@
 ![](https://img.shields.io/badge/Tools-GithubDesktop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
-  
+<br>
+
 Something about me:
 
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
@@ -36,7 +37,7 @@ Something about me:
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I love ice-cream 😁
 
-<br><br>
+<br>
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> MY statistics  
 <p align="center">
 <a href="https://github.com/GurvirSingh/github-readme-stats">
