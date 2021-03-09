@@ -40,12 +40,12 @@ Something about me:
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> MY statistics  
 <p align="center">
 <a href="https://github.com/GurvirSingh/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=highcontrast" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/MihirMore/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=synthwave&hide=blade&card_width=445&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=highcontrast&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
