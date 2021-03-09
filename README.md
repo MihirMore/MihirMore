@@ -14,6 +14,16 @@
  <a></a>
   </p>
   <br>
+  ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GithubDesktop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 Something about me:
 
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
@@ -27,12 +37,12 @@ Something about me:
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> MY statistics  
 <p align="center">
 <a href="https://github.com/GurvirSingh/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=synthwave" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/MihirMore/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=tokyonight&hide=blade&card_width=445&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=synthwave&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
