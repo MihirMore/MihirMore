@@ -42,13 +42,13 @@
 ### &#x1f4c8; Github Stats  
 <p align="center">
 <a href="https://github.com/GurvirSingh/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=cobalt" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/MihirMore/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=dracula&hide=blade&card_width=445&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=cobalt&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
 
