@@ -1,8 +1,8 @@
 <h1> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://gph.is/st/MGQnzlm" width="250">
 
 <p align="center">
-  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
+  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
 </p>
 <br>
 <p align="center">
