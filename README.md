@@ -35,7 +35,7 @@
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Maths
-- 😄 Pronouns: He / His
+- 😄 Pronouns: He / His / Developer
 - ⚡ Fun fact: I love ice-cream 😁
 
 <br>
