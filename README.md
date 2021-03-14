@@ -29,7 +29,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something about me:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something about me:
 
 - 🔭 I’m currently working on NLP & Microsoft Bot Framework
 - 🌱 I’m currently learning Web Development and Machine Learning 
@@ -39,7 +39,7 @@
 - ⚡ Fun fact: I love ice-cream 😁
 
 <br>
-### &#x1f4c8; Github Stats  
+## &#x1f4c8; Github Stats  
 <p align="center">
 <a href="https://github.com/MihirMore/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=highcontrast" />
