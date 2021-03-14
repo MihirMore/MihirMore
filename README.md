@@ -39,7 +39,7 @@
 - ⚡ Fun fact: I love ice-cream 😁
 
 <br>
-## &#x1f4c8; Github Stats  
+ &#x1f4c8; Github Stats  
 <br>
 <p align="center">
 <a href="https://github.com/MihirMore/github-readme-stats">
