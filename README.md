@@ -40,6 +40,7 @@
 
 <br>
 ## &#x1f4c8; Github Stats  
+<br>
 <p align="center">
 <a href="https://github.com/MihirMore/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=highcontrast" />
