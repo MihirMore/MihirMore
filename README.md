@@ -2,7 +2,7 @@
 <img align='right' src="https://media.tenor.com/images/24a19a8be25c076a4533fd0965fea192/tenor.gif" width="240">
 
 <p align="center">
-  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions </a><img src="https://media.giphy.com/media/uWv3uPfWOz088/giphy.gif" width="30"> </em>
+  <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions </a><img src="https://media.giphy.com/media/uWv3uPfWOz088/giphy.gif" width="40"> </em>
 </p>
 <br>
 <p align="center">
