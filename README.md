@@ -53,6 +53,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=highcontrast&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
+  
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MihirMore&layout=compact" />
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
