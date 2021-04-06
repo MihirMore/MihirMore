@@ -1,5 +1,5 @@
 <h1> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h1>
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="350">
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="350">
 
 <p align="center">
   <em>Programmer at <a href="https://www.bitwiseglobal.com/in/">Bitwise Global Solutions </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
