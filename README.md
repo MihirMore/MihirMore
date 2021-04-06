@@ -86,10 +86,14 @@ width="40" height="40"/> </a> -->
     <!--<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" 
 width="40" height="40"/> </a>-->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.soapui.org" target="_blank"><img src="https://pbs.twimg.com/profile_images/1074669573503365121/-AvocOY1_400x400.jpg" alt="soapui" width="40" height="40" /> </a>
+    <a href="https://www.soapui.org" target="_blank"><img src="https://pbs.twimg.com/profile_images/1074669573503365121/-AvocOY1_400x400.jpg" alt="soapui" width="40" height="40" /> .</a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 alt="python" width="40" height="40"/></a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
 width="40" height="40"/> </a> 
+  
+<h3>Wakatime Stats</h3>
+https://github-readme-stats.vercel.app/api/wakatime?username=QuantumDream)
+
     
     
