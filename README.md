@@ -16,7 +16,19 @@
   </p>
   <br>
   
-  ## 🔧 Technologies & Tools
+  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something about me:
+
+- 🔭 I’m currently working on NLP & Microsoft Bot Framework
+- 🌱 I’m currently learning Web Development and Machine Learning 
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Maths
+- 😄 Pronouns: He / His / Developer
+- ⚡ Fun fact: I love ice-cream 😁
+  
+<br>
+
+
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -26,19 +38,9 @@
 ![](https://img.shields.io/badge/Tools-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GithubDesktop-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
-  
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something about me:
 
-- 🔭 I’m currently working on NLP & Microsoft Bot Framework
-- 🌱 I’m currently learning Web Development and Machine Learning 
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Maths
-- 😄 Pronouns: He / His / Developer
-- ⚡ Fun fact: I love ice-cream 😁
-
-<br>
  &#x1f4c8; Github Stats  
 <br>
 <br>
