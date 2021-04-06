@@ -93,7 +93,7 @@ alt="python" width="40" height="40"/></a>
 width="40" height="40"/> </a> 
   
 <h3>Wakatime Stats</h3>
-https://github-readme-stats.vercel.app/api/wakatime?username=QuantumDream)
+[![Mihir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuantumDream)](https://github.com/anuraghazra/github-readme-stats)
 
     
     
