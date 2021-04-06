@@ -46,13 +46,13 @@
 <br>
 <p align="center">
 <a href="https://github.com/MihirMore/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirMore&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/MihirMore/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=merko&hide=blade&card_width=445&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirMore&theme=tokyonight&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
   
