@@ -92,8 +92,6 @@ alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
 width="40" height="40"/> </a> 
   
-<h3>Wakatime Stats</h3>
-[![Mihir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuantumDream)](https://github.com/anuraghazra/github-readme-stats)
 
     
     
