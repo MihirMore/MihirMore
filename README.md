@@ -27,7 +27,7 @@
   
 <br>
 
- ## <img src="https://media1.tenor.com/images/cffdd3af880e6d48f2e36e04aca7aa98/tenor.gif?itemid=15813050" width = "80"> Github Stats  
+ ## <img src="https://media1.tenor.com/images/cffdd3af880e6d48f2e36e04aca7aa98/tenor.gif?itemid=15813050" width = "50"> Github Stats  
 <br>
 <br>
 <p align="center">
