@@ -42,9 +42,8 @@
 </a>
   </p>
   
-<!--<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MihirMore&layout=compact" />
- </p>-->
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirMore&" alt="MihirMore" /></p>  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
