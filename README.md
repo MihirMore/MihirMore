@@ -42,7 +42,7 @@
 </a>
   </p>
   
-<!--<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirMore&theme=tokyonight" alt="MihirMore" /></p>  -->
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirMore&theme=tokyonight" alt="MihirMore" /></p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
