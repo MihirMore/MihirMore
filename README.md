@@ -80,6 +80,6 @@ width="40" height="40"/> </a>
   
  <!--[![Mihir's github activity graph](https://activity-graph.herokuapp.com/graph?username=MihirMore&theme=xcode)](https://git.io/mihirmore) -->
   
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirMore&" alt="circa10a" /></p>
     
     
