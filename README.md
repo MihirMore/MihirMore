@@ -1,5 +1,5 @@
 <h1> 👋 Hey there, I'm <a href="https://github.com/MihirMore">Mihir More</a>! </h1>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="410" height="340">
 
 <p align="center">
@@ -47,6 +47,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <p align="left"> 
   <i class="devicon-c-line-wordmark"></i>
     
