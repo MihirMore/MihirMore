@@ -46,9 +46,10 @@
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirMore&theme=tokyonight" alt="MihirMore" /></p> 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:
+  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<p align="left"> 
-  <i class="devicon-c-line-wordmark"></i>
-    
+</h3>
+<!-- in your body -->
+<i class="devicon-python-plain colored"></i>
     
