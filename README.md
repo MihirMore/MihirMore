@@ -78,4 +78,14 @@ width="40" height="40"/> </a>-->
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
-width="40" height="40"/> </a> 
+width="40" height="40"/> </a>
+
+<!--START_SECTION:waka-->
+
+.. image:: https://wakatime.com/share/@QuantumDream/a4101e93-9f38-40fc-802c-52e4b53edecf.png
+    :target: https://wakatime.com/
+
+
+<!--END_SECTION:waka-->
+
+
