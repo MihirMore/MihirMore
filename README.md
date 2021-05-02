@@ -81,9 +81,9 @@ alt="python" width="40" height="40"/> </a>
 width="40" height="40"/> </a>
 
 <!--START_SECTION:waka-->
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@QuantumDream/2e648c8e-c41e-4e31-a4b5-8b8fb66c5cc5.png" widht="400" height="400" class="center"/></a>
-
+<p align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@QuantumDream/2e648c8e-c41e-4e31-a4b5-8b8fb66c5cc5.png" widht="400" height="400"/></a>
+</p>
 
 <!--END_SECTION:waka-->
 
