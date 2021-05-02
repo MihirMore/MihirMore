@@ -18,3 +18,4 @@ jobs:
           COMMIT_MESSAGE: Updated the Readme
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE: false
+          SHOW_COMMIT: true
