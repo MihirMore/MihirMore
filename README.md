@@ -81,7 +81,10 @@ alt="python" width="40" height="40"/> </a>
 width="40" height="40"/> </a>
 
 <!--START_SECTION:waka-->
-
+```text
+Python     10 hrs 55 mins  █████████████████████▓░░░   86.26 % 
+Markdown   1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
 <!--END_SECTION:waka-->
 
 
