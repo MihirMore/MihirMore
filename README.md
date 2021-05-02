@@ -80,6 +80,7 @@ alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
 width="40" height="40"/> </a>
 
+<!--START_SECTION:waka-->
 
 ```text
 Python     10 hrs 55 mins  █████████████████████▓░░░   86.26 % 
@@ -87,4 +88,5 @@ Markdown   1 hr 44 mins    ███▒░░░░░░░░░░░░░�
 ```
 
 
+<!--END_SECTION:waka-->
 
