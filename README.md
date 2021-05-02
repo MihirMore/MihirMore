@@ -82,7 +82,7 @@ width="40" height="40"/> </a>
 
 <!--START_SECTION:waka-->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@QuantumDream/a4101e93-9f38-40fc-802c-52e4b53edecf.png" width="400"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@QuantumDream/2e648c8e-c41e-4e31-a4b5-8b8fb66c5cc5.png" widht="400" height="400" class="center"/></a>
 
 
 <!--END_SECTION:waka-->
