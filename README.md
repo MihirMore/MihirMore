@@ -80,12 +80,5 @@ alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 
 width="40" height="40"/> </a>
 
-<!--START_SECTION:waka-->
-```text
-Week: 25 April, 2021 - 02 May, 2021
 
-Python     16 hrs 46 mins  █████████████████████▒░░░   85.77 % 
-Markdown   2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-```
-<!--END_SECTION:waka-->
 
