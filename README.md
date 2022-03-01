@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Python, Frontend and Backend technologies
 - 😄 Pronouns: He / His / Developer
-- ⚡ Fun fact: I love ice-cream 😁
+- ⚡ Fun fact: I love ice-cream �:yum:
   
 <br>
 
