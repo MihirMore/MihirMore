@@ -19,10 +19,10 @@
   
   ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something about me:
 
-- 🔭 I’m currently working on NLP & Microsoft Bot Framework
+- 🔭 I’m currently working on developing programming skills (Revisiting the fundamentals :grin:)
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Github
-- 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Python, Frontend and Backend Technologies
+- 💬 Ask me about NLP, Microsoft Bot Framework, Google Dialogflow, Python, Frontend and Backend technologies
 - 😄 Pronouns: He / His / Developer
 - ⚡ Fun fact: I love ice-cream 😁
   
