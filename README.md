@@ -9,11 +9,8 @@
 <p align="center">
   <a href="https://github.com/MihirMore">
     <img src="https://img.shields.io/github/followers/MihirMore?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/mihir-more-qd/">
-    <img src="https://img.shields.io/badge/Linkedin-268-blue?style=for-the-badge&logo=Linkedin">
-  </a>
- <a></a>
+  
+
   </p>
   <br>
   
